@@ -1,0 +1,1 @@
+**2026-11-05** - Today I'm studying how to use OpenSpec and Spec Driven Development, I'm to use it for the Mindtraveller V0
